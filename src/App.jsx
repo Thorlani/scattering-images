@@ -52,6 +52,7 @@ function App() {
             width: num === 5 ? "500px" : num === 0 ? "150px" : "150px",
             height: num === 5 ? "500px" : num === 0 ? "150px" : "150px",
             backgroundColor: num === 5 ? "#fff" : "rgb(189, 189, 189)",
+            zIndex: num === 5 ? "1000" : "10",
           }}
           transition={{
             delay: num === 5 ? 0.5 : num === 0 ? 1.6 : 0.5,
@@ -91,6 +92,7 @@ function App() {
             width: num === 4 ? "500px" : num === 0 ? "150px" : "150px",
             height: num === 4 ? "500px" : num === 0 ? "150px" : "150px",
             backgroundColor: num === 4 ? "#fff" : "rgb(189, 189, 189)",
+            zIndex: num === 4 ? "1000" : "10",
           }}
           transition={{
             delay: num === 4 ? 0.5 : num === 0 ? 1.6 : 0.5,
@@ -130,6 +132,7 @@ function App() {
             width: num === 2 ? "500px" : num === 0 ? "150px" : "150px",
             height: num === 2 ? "500px" : num === 0 ? "150px" : "150px",
             backgroundColor: num === 2 ? "#fff" : "rgb(189, 189, 189)",
+            zIndex: num === 2 ? "1000" : "10",
           }}
           transition={{
             delay: num === 2 ? 0.5 : num === 0 ? 1.2 : 0.5,
@@ -169,6 +172,7 @@ function App() {
             width: num === 1 ? "500px" : num === 0 ? "150px" : "150px",
             height: num === 1 ? "500px" : num === 0 ? "150px" : "150px",
             backgroundColor: num === 1 ? "#fff" : "rgb(189, 189, 189)",
+            zIndex: num === 1 ? "1000" : "10",
           }}
           transition={{
             delay: num === 1 ? 0.5 : num === 0 ? 1.8 : 0.5,
@@ -208,6 +212,7 @@ function App() {
             width: num === 3 ? "500px" : num === 0 ? "300px" : "150px",
             height: num === 3 ? "500px" : num === 0 ? "300px" : "150px",
             backgroundColor: num === 3 ? "#fff" : "rgb(189, 189, 189)",
+            zIndex: num === 3 ? "1000" : "10",
           }}
           transition={{
             delay: num === 3 ? 0.5 : num === 0 ? 1.4 : 0.5,
