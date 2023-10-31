@@ -72,7 +72,7 @@ function App() {
               width: num === 5 ? "90%" : "100%",
               height: num === 5 ? "90%" : "100%",
             }}
-            src="5.jpg"
+            src="5.jpeg"
             alt="fashionable image"
           />
           <h1>Lorence Lozano</h1>
@@ -112,7 +112,7 @@ function App() {
               width: num === 4 ? "90%" : "100%",
               height: num === 4 ? "90%" : "100%",
             }}
-            src="4.jpg"
+            src="4.jpeg"
             alt="fashionable image"
           />
           <h1>100K MAKHASETTE</h1>
@@ -152,7 +152,7 @@ function App() {
               width: num === 2 ? "90%" : "100%",
               height: num === 2 ? "90%" : "100%",
             }}
-            src="3.jpg"
+            src="3.jpeg"
             alt="fashionable image"
           />
           <h1>cottonbro studio</h1>
@@ -192,7 +192,7 @@ function App() {
               width: num === 1 ? "90%" : "100%",
               height: num === 1 ? "90%" : "100%",
             }}
-            src="2.jpg"
+            src="2.jpeg"
             alt="fashionable image"
           />
           <h1>Aleksandr Neplokhov</h1>
@@ -232,7 +232,7 @@ function App() {
               width: num === 3 ? "90%" : "100%",
               height: num === 3 ? "90%" : "100%",
             }}
-            src="1.jpg"
+            src="1.jpeg"
             alt="fashionable image"
           />
           <h1>PNW Production</h1>
